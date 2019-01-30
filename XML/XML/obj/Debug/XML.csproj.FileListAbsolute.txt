@@ -1,0 +1,14 @@
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\bin\Debug\XML.exe
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\bin\Debug\XML.pdb
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\obj\Debug\XML.exe
+C:\Users\Adrian\Desktop\Homework\XML\XML\XML\obj\Debug\XML.pdb
+C:\Users\Adrian\Desktop\Homework\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Adrian\Desktop\Homework\XML\XML\bin\Debug\XML.exe
+C:\Users\Adrian\Desktop\Homework\XML\XML\bin\Debug\XML.pdb
+C:\Users\Adrian\Desktop\Homework\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework\XML\XML\obj\Debug\XML.exe
+C:\Users\Adrian\Desktop\Homework\XML\XML\obj\Debug\XML.pdb
